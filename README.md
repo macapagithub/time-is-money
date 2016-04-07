@@ -1,2 +1,2 @@
 # time-is-money
-Analysis of time seies for financial data
+Analysis of time series for financial data. The Colombian case
